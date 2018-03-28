@@ -7,7 +7,7 @@ IBM DigitalAnalytics is a digital analytics SDK as documented [here](https://dev
 
 ### Prerequisites
 
-You need to have recent cocoapods version install on your Mac OS. Current version is 1.4.0. Please refer to cocoapods website for the details.
+You need to have recent cocoapods version installed on your Mac OS. Current version is 1.4.0. Please refer to cocoapods website for the details.
 
 For SDK prerequisites and documentation, please refer to the SDK documentation [here](https://developer.ibm.com/customer-engagement/tutorials/getting-started-digital-analytics-sdk-ios/)
 
