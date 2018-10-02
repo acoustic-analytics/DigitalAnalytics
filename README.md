@@ -15,12 +15,6 @@ For SDK prerequisites and documentation, please refer to the SDK documentation [
 
 Add following lines at the begining of your Podfile
 
-`source 'https://github.com/ibm-watson-cxa/EOCore.git'`
-
-`source 'https://github.com/ibm-watson-cxa/DigitalAnalytics.git'`
-
-`source 'https://github.com/CocoaPods/Specs.git'`
-
 Set platform as iOS 9
 
 `platform :ios, '9.0'`
