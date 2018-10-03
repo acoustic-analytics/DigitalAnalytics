@@ -41,7 +41,7 @@ If you are using Debug version of IBM DigitalAnalytics SDK. i.e. `pod 'DigitalAn
 
 ## Versioning
 
-Current stable version of DigitalAnalytics SDK is 1.0.3.18
+Current stable version of DigitalAnalytics SDK is 1.0.3.26
 
 
 ## License
