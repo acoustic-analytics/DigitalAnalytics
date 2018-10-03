@@ -4,8 +4,9 @@ Pod::Spec.new do |s|
   s.author = 'IBM'
   s.license = { :type => 'Proprietary, IBM', :file => 'Licenses/LA_en' }
   s.homepage = 'https://github.com/ibm-watson-cxa/DigitalAnalytics'
-  s.summary = 'IBM Digital Analytics iOS SDK '
+  s.summary = 'Tealeaf iOS SDK'
   s.platforms = { :ios => "9.0" }
+  s.summary = 'Digital Analytics iOS SDK'
   s.frameworks = 'SystemConfiguration', 'CoreTelephony', 'CoreLocation', 'WebKit'
   s.library = 'z'
   s.resource = "SDKs/iOS/Debug/DAMod.framework/DAMod.bundle"
@@ -14,3 +15,4 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'SDKs/iOS/Debug/DAMod.framework'
   s.dependency 'EOCoreDebug'
 end
+
