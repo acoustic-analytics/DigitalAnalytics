@@ -38,12 +38,6 @@ Remember you can use only one of  `pod 'DigitalAnalytics'` and `pod 'DigitalAnal
 
 If you are using Debug version of IBM DigitalAnalytics SDK. i.e. `pod 'DigitalAnalyticsDebug'` , then you may edit your project's scheme in XCode and add environmental variable `DIGITAL_ANALYTICS_DEBUG` and set its value to 1; also add environmental variable `EODebug` and set its value to 1. This will make the SDK to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics support engineers will ask you for these logs.
 
-
-## Versioning
-
-Current stable version of DigitalAnalytics SDK is 1.0.3.26
-
-
 ## License
 
 License files can be read [here](https://github.com/ibm-watson-cxa/DigitalAnalytics/tree/master/Licenses)
