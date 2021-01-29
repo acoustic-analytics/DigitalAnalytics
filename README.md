@@ -1,6 +1,6 @@
-# IBM DigitalAnalytics
+# Acoustic DigitalAnalytics
 
-IBM DigitalAnalytics is a digital analytics SDK as documented [here](https://developer.ibm.com/customer-engagement/tutorials/getting-started-digital-analytics-sdk-ios/)
+Acoustic DigitalAnalytics is a digital analytics SDK as documented [here](https://developer.goacoustic.com/acoustic-dig-analytics/docs/getting-started-with-the-digital-analytics-sdk-for-ios)
 
 
 ## Getting Started
@@ -9,7 +9,7 @@ IBM DigitalAnalytics is a digital analytics SDK as documented [here](https://dev
 
 You need to have recent cocoapods version installed on your Mac OS. Current version is 1.6.1. Please refer to cocoapods website for the details.
 
-For SDK prerequisites and documentation, please refer to the SDK documentation [here](https://developer.ibm.com/customer-engagement/tutorials/getting-started-digital-analytics-sdk-ios/)
+For SDK prerequisites and documentation, please refer to the SDK documentation [here](https://developer.goacoustic.com/acoustic-dig-analytics/docs/getting-started-with-the-digital-analytics-sdk-for-ios)
 
 ### Installing
 
@@ -23,11 +23,11 @@ Uncomment use_frameworks
 
 `use_frameworks!`
 
-In the respective targets for your project in the Podfile add the following line if you want to use IBM DigitalAnalytics SDK's release version
+In the respective targets for your project in the Podfile add the following line if you want to use Acoustic DigitalAnalytics SDK's release version
 
 `pod 'DigitalAnalytics'`
 
-In the respective targets for your project in the Podfile add the following line if you want to use IBM DigitalAnalytics SDK's release version
+In the respective targets for your project in the Podfile add the following line if you want to use Acoustic DigitalAnalytics SDK's release version
 
 `pod 'DigitalAnalyticsDebug'`
 
@@ -36,8 +36,8 @@ Remember you can use only one of  `pod 'DigitalAnalytics'` and `pod 'DigitalAnal
 
 ## Troubleshooting
 
-If you are using Debug version of IBM DigitalAnalytics SDK. i.e. `pod 'DigitalAnalyticsDebug'` , then you may edit your project's scheme in XCode and add environmental variable `DIGITAL_ANALYTICS_DEBUG` and set its value to 1; also add environmental variable `EODebug` and set its value to 1. This will make the SDK to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics support engineers will ask you for these logs.
+If you are using Debug version of Acoustic DigitalAnalytics SDK. i.e. `pod 'DigitalAnalyticsDebug'` , then you may edit your project's scheme in XCode and add environmental variable `DIGITAL_ANALYTICS_DEBUG` and set its value to 1; also add environmental variable `EODebug` and set its value to 1. This will make the SDK to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics support engineers will ask you for these logs.
 
 ## License
 
-License files can be read [here](https://github.com/ibm-watson-cxa/DigitalAnalytics/tree/master/Licenses)
+License files can be read [here](https://github.com/acoustic-analytics/DigitalAnalytics/blob/master/Licenses/License)
