@@ -84,5 +84,14 @@ Please go to
 
 If you are using Debug version of Acoustic DigitalAnalytics SDK. i.e. `pod 'DigitalAnalyticsDebug'` , then you may edit your project's scheme in XCode and add environmental variable `DIGITAL_ANALYTICS_DEBUG` and set its value to 1; also add environmental variable `EODebug` and set its value to 1. This will make the SDK to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics support engineers will ask you for these logs.
 
+If you are getting an issue like:
+
+dyld: Library not loaded: @rpath/EOCore.framework/EOCore
+  Referenced from: /Users/h26259/Library/Developer/CoreSimulator/Devices/57B11359-B896-495E-B802-A8377313F848/data/Containers/Bundle/Application/9CE5AF4D-CD63-49F8-8288-677EC7BD81DA/myCigna.app/myCigna
+  Reason: image not found
+dyld: launch, loading dependent libraries
+
+In the podfile, change from use_frameworks! to use_modular_headers! to correct issues.
+
 ## License
 License files can be read [here](https://github.com/acoustic-analytics/DigitalAnalytics/blob/master/Licenses/License)
