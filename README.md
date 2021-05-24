@@ -77,8 +77,8 @@ Above carthage command should complete with no errors.
 
 # Getting Started with Swift Package
 Please go to 
-- Release library: https://github.com/acoustic-analytics/Tealeaf-SP
-- Debug library: https://github.com/acoustic-analytics/TealeafDebug-SP
+- Release library: https://github.com/acoustic-analytics/DigitalAnalytics-SP
+- Debug library: https://github.com/acoustic-analytics/DigitalAnalyticsDebug-SP
 ***
 ## Troubleshooting
 
