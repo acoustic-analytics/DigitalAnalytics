@@ -1,6 +1,0 @@
-framework module DAMod {
-  umbrella header "DAMod.h"
-
-  export *
-  module * { export * }
-}
