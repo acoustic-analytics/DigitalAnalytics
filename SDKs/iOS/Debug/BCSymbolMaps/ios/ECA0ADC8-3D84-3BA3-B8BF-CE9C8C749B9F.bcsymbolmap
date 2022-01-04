@@ -1,7 +1,7 @@
 BCSymbolMap Version: 2.0
-Apple clang version 13.0.0 (clang-1300.0.29.3)
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
-iPhoneOS15.0.sdk
+Apple clang version 13.0.0 (clang-1300.0.29.30)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk
+iPhoneOS15.2.sdk
 /Users/easdk/Library/Developer/Xcode/DerivedData/DAMod-gxrnrxvbelrsvegncuinmjpvkdwf/Build/Intermediates.noindex/ArchiveIntermediates/XCDAMod/IntermediateBuildFilesPath/DAMod.build/DebugXCDevice-iphoneos/XCDAMod.build/DerivedSources/DAMod_vers.c
 /Users/easdk/builds/workspace/iOS_DA_PullRequest_Check_develop/DAModBuild/iOS-SDK/iOSSrc/DAMod
 +[DATag tagWith:clientId:]
@@ -141,7 +141,7 @@ DAMod/DATagsRingBuffer.m
 __destroy_helper_block_e4_
 __copy_helper_block_e4_
 __34+[DATagsRingBuffer sharedInstance]_block_invoke
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/dispatch/once.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/dispatch/once.h
 +[DAConstraintsChecker satisfy:constraintsFor:]
 +[DAConstraintsChecker satisfy:constraints:]
 _allConstraints
@@ -189,7 +189,7 @@ __OBJC_$_CATEGORY_NSMutableDictionary_$_SafeDigitalAnalytics
 /Users/easdk/builds/workspace/iOS_DA_PullRequest_Check_develop/DAModBuild/iOS-SDK/iOSSrc/DAMod/DAMod/NSDictionary+QueryString.m
 DAMod/NSDictionary+QueryString.m
 NSMakeRange
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
 +[DATagDictionary tagWithApplicationName:clientId:]
 -[DATagDictionary init]
 -[DATagDictionary makePageViewTag:cg:se:sr:attributes:cm_mmc:]
