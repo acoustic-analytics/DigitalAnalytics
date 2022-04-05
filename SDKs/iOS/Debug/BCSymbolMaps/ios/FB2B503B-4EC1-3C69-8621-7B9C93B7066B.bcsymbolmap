@@ -1,7 +1,7 @@
 BCSymbolMap Version: 2.0
-Apple clang version 13.0.0 (clang-1300.0.29.30)
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk
-iPhoneOS15.2.sdk
+Apple clang version 13.1.6 (clang-1316.0.21.2)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
 /Users/easdk/Library/Developer/Xcode/DerivedData/DAMod-gxrnrxvbelrsvegncuinmjpvkdwf/Build/Intermediates.noindex/ArchiveIntermediates/XCDAMod/IntermediateBuildFilesPath/EOCore.build/DebugXCDevice-iphoneos/XCEOCore.build/DerivedSources/EOCore_vers.c
 /Users/easdk/builds/workspace/iOS_DA_PullRequest_Check_develop/DAModBuild/iOS-SDK/iOSSrc/EOCore
 +[EOTestingHelper logForTesting:]
@@ -26,7 +26,7 @@ __destroy_helper_block_e8_32s
 __copy_helper_block_e8_32s
 __33+[EOTestingHelper logForTesting:]_block_invoke
 dispatch_get_main_queue
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/dispatch/queue.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/queue.h
 -[NSString(EOCoreExtensions) tealeafClass]
 _tealeafClass.eoDebug
 _tealeafClass.eoDebugKiwi
@@ -165,7 +165,7 @@ EOCore/EOApplicationHelper.m
 __destroy_helper_block_e8_
 __copy_helper_block_e8_
 __37+[EOApplicationHelper sharedInstance]_block_invoke
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/dispatch/once.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/once.h
 -[NSDictionary(EOCoreExtensions) toJson]
 -[NSDictionary(EOCoreExtensions) urlEncodedString]
 -[NSDictionary(EOCoreExtensions) daQueryItemsForCharset:]
@@ -263,14 +263,15 @@ _OBJC_SELECTOR_REFERENCES_.120
 _OBJC_SELECTOR_REFERENCES_.122
 _OBJC_SELECTOR_REFERENCES_.124
 _OBJC_SELECTOR_REFERENCES_.126
-_OBJC_SELECTOR_REFERENCES_.134
-_OBJC_CLASSLIST_REFERENCES_$_.135
-_OBJC_SELECTOR_REFERENCES_.141
-_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_CLASSLIST_REFERENCES_$_.137
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.147
 _reachabilityChanged:.eoDebug
 _reachabilityChanged:.eoDebugKiwi
 _reachabilityChanged:.eoMiCloudSDKMachine
-_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
 __OBJC_$_CLASS_METHODS_EONetworkManager
 __OBJC_METACLASS_RO_$_EONetworkManager
 __OBJC_$_INSTANCE_METHODS_EONetworkManager
@@ -587,10 +588,8 @@ _OBJC_SELECTOR_REFERENCES_.115
 _OBJC_CLASSLIST_REFERENCES_$_.116
 _OBJC_CLASSLIST_REFERENCES_$_.123
 _OBJC_CLASSLIST_REFERENCES_$_.134
-_OBJC_SELECTOR_REFERENCES_.136
-_OBJC_CLASSLIST_REFERENCES_$_.137
 _OBJC_SELECTOR_REFERENCES_.139
-_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.141
 _OBJC_CLASSLIST_REFERENCES_$_.146
 _OBJC_SELECTOR_REFERENCES_.148
 _OBJC_SELECTOR_REFERENCES_.150
@@ -1344,12 +1343,13 @@ _applyModuleSpecificHeadersToRequest:withJson:withSessionId:.eoMiCloudSDKMachine
 _applyModuleSpecificCookiesToRequest:.eoDebug
 _applyModuleSpecificCookiesToRequest:.eoDebugKiwi
 _applyModuleSpecificCookiesToRequest:.eoMiCloudSDKMachine
+_OBJC_SELECTOR_REFERENCES_.134
 _performURLConnectionWithRequest:.eoDebug
 _performURLConnectionWithRequest:.eoDebugKiwi
 _performURLConnectionWithRequest:.eoMiCloudSDKMachine
 _OBJC_SELECTOR_REFERENCES_.138
 _OBJC_CLASSLIST_REFERENCES_$_.143
-_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.145
 ___block_descriptor_40_e8_32s_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
 _performURLConnectionWithRequest:.eoDebug.153
 _performURLConnectionWithRequest:.eoDebugKiwi.154
@@ -1696,7 +1696,7 @@ EOCore/EOEnvironmentalSerivce.m
 EOCore/EOEnvironmentalSerivce.h
 __49-[EOEnvironmentalSerivce setUserAgentFromBrowser]_block_invoke
 NSEqualRanges
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
 NSMakeRange
 __30-[EOEnvironmentalSerivce init]_block_invoke
 __40+[EOEnvironmentalSerivce sharedInstance]_block_invoke
