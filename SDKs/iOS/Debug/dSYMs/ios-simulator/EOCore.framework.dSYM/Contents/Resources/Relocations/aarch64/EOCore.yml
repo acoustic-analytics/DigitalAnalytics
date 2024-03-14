@@ -161,8 +161,8 @@ relocations:
   - { offsetInCU: 0xE2D, offset: 0x4FCF, size: 0x8, addend: 0x0, symName: '-[EOQueue .cxx_destruct]', symObjAddr: 0x58F4, symBinAddr: 0xFBEC, symSize: 0x64 }
   - { offsetInCU: 0x27, offset: 0x576A, size: 0x8, addend: 0x0, symName: '+[MiCloudIBMLogClient postToIBMMiCloudSDKTool:]', symObjAddr: 0x0, symBinAddr: 0xFC50, symSize: 0x330 }
   - { offsetInCU: 0x34, offset: 0x5777, size: 0x8, addend: 0x0, symName: '+[MiCloudIBMLogClient onlyMiCloudIBMLogClient]', symObjAddr: 0x460, symBinAddr: 0x100B0, symSize: 0xB4 }
-  - { offsetInCU: 0x5D, offset: 0x57A0, size: 0x8, addend: 0x0, symName: _onlyMiCloudIBMLogClient.onlyInstance, symObjAddr: 0x8B90, symBinAddr: 0xA12E8, symSize: 0x0 }
-  - { offsetInCU: 0x72, offset: 0x57B5, size: 0x8, addend: 0x0, symName: _onlyMiCloudIBMLogClient.onceToken, symObjAddr: 0x8B98, symBinAddr: 0xA12F0, symSize: 0x0 }
+  - { offsetInCU: 0x5D, offset: 0x57A0, size: 0x8, addend: 0x0, symName: _onlyMiCloudIBMLogClient.onlyInstance, symObjAddr: 0x8B98, symBinAddr: 0xA12E8, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x57B5, size: 0x8, addend: 0x0, symName: _onlyMiCloudIBMLogClient.onceToken, symObjAddr: 0x8BA0, symBinAddr: 0xA12F0, symSize: 0x0 }
   - { offsetInCU: 0x6CB, offset: 0x5E0E, size: 0x8, addend: 0x0, symName: '+[MiCloudIBMLogClient postToIBMMiCloudSDKTool:]', symObjAddr: 0x0, symBinAddr: 0xFC50, symSize: 0x330 }
   - { offsetInCU: 0x782, offset: 0x5EC5, size: 0x8, addend: 0x0, symName: '___47+[MiCloudIBMLogClient postToIBMMiCloudSDKTool:]_block_invoke', symObjAddr: 0x330, symBinAddr: 0xFF80, symSize: 0x6C }
   - { offsetInCU: 0x7DD, offset: 0x5F20, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0x39C, symBinAddr: 0xFFEC, symSize: 0x70 }

@@ -58,7 +58,7 @@ relocations:
   - { offsetInCU: 0x5A9, offset: 0x1993, size: 0x8, addend: 0x0, symName: '-[DATagsRingBuffer setRingBuffer:]', symObjAddr: 0x4E0, symBinAddr: 0x62E0, symSize: 0x30 }
   - { offsetInCU: 0x5E7, offset: 0x19D1, size: 0x8, addend: 0x0, symName: '-[DATagsRingBuffer .cxx_destruct]', symObjAddr: 0x510, symBinAddr: 0x6310, symSize: 0x27 }
   - { offsetInCU: 0x27, offset: 0x1AEB, size: 0x8, addend: 0x0, symName: '+[DAConstraintsChecker satisfy:constraintsFor:]', symObjAddr: 0x0, symBinAddr: 0x6340, symSize: 0x60F0 }
-  - { offsetInCU: 0x40, offset: 0x1B04, size: 0x8, addend: 0x0, symName: _allConstraints, symObjAddr: 0xB880, symBinAddr: 0x34860, symSize: 0x0 }
+  - { offsetInCU: 0x40, offset: 0x1B04, size: 0x8, addend: 0x0, symName: _allConstraints, symObjAddr: 0xB888, symBinAddr: 0x34860, symSize: 0x0 }
   - { offsetInCU: 0xA7, offset: 0x1B6B, size: 0x8, addend: 0x0, symName: '+[DAConstraintsChecker satisfy:constraintsFor:]', symObjAddr: 0x0, symBinAddr: 0x6340, symSize: 0x60F0 }
   - { offsetInCU: 0xD0, offset: 0x1B94, size: 0x8, addend: 0x0, symName: '_satisfy:constraintsFor:.tlfDebug', symObjAddr: 0x8FE0, symBinAddr: 0x345B0, symSize: 0x0 }
   - { offsetInCU: 0xE5, offset: 0x1BA9, size: 0x8, addend: 0x0, symName: '_satisfy:constraintsFor:.tlfDebug.106', symObjAddr: 0x8FE4, symBinAddr: 0x345B4, symSize: 0x0 }
